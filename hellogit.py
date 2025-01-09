@@ -1,2 +1,2 @@
-print("hello git")
+print("asdasd")
 print("miau")
