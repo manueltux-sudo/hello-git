@@ -1,2 +1,2 @@
 print("asdasd")
-print("miau")
+print("miau xd")
